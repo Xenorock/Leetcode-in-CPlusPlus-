@@ -6,4 +6,4 @@
 |   #  |   Tree    |     Solution      |       Difficulty      |
 |-----|-----------|----------|------------|
 | 144 |    [Binary Tree Preorder Traversal](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/1#issue-880340987)  |36.30%|Medium| 
-| 94  |   Binary Tree Inorder Traversal     |36.20%|Medium|
+| 94  |   [Binary Tree Inorder Traversal ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/2#issue-880359391)    |36.20%|Medium|
