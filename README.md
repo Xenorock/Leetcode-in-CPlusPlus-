@@ -4,6 +4,7 @@
 
 |  #  |   Title   | Solution | Difficulty |
 |-----|-----------|----------|------------|
-|   # |   Tree    |          |            |
+|     |   Tree    |          |            |
+|-----|-----------|----------|------------|
 | 144 |     Binary Tree Preorder Traversal  |36.30%|Medium|
 | 94  |   Binary Tree Inorder Traversal     |36.20%|Medium|
