@@ -20,4 +20,4 @@ The next table is Preorder
 |-----|-----------|----------|------------|
 | 100  |   [100. Same Tree  ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/6#issue-886288566)    |54.3%|Easy|
 | 101  |   [100. Symmetric Tree  ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/7#issue-886361496)    |48.7%|Easy|
-| 101  |   [226. Invert Binary Tree](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/8#issue-889945862)    |67.6%|Easy|
+| 226  |   [226. Invert Binary Tree](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/8#issue-889945862)    |67.6%|Easy|
