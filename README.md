@@ -10,8 +10,7 @@
 | 145  |   [Binary Tree Postorder Traversal ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/3#issue-881027097)    |58.4%|Medium|
 | 102  |   [102. Binary Tree Level Order Traversal ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/4#issue-882163283)    |57.2%|Medium|
 | 107  |   [107. Binary Tree Level Order Traversal II ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/5#issue-882169542)    |55.7%|Medium|
-| 100  |   [100. Same Tree  ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/6#issue-886288566)    |54.3%|Easy|
-| 101  |   [100. Symmetric Tree  ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/7#issue-886361496)    |48.7%|Easy|
+
 
 
 
@@ -19,3 +18,6 @@ The next table is Preorder
 
 |   #  |   Tree (Preorder)   |     Solution      |       Difficulty      |
 |-----|-----------|----------|------------|
+| 100  |   [100. Same Tree  ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/6#issue-886288566)    |54.3%|Easy|
+| 101  |   [100. Symmetric Tree  ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/7#issue-886361496)    |48.7%|Easy|
+| 101  |   [226. Invert Binary Tree](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/8#issue-889945862)    |67.6%|Easy|
