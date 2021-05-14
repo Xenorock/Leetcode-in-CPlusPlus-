@@ -24,4 +24,7 @@ The next table is Preorder
 | 257  |   [257. Binary Tree Paths](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/9#issue-890004137)    |54.5%|Easy|
 | 112  |   [112. Path Sum](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/10#issue-890023079)    |42.8%|Easy|
 | 113  |   [113. Path Sum II](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/11#issue-891896223)    |49.8%|Medium|
+| 129  |   [129. Sum Root to Leaf Numbers ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/12#issue-891992052)    |51.6%|Medium|
+
+
 
