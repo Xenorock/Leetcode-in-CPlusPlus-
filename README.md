@@ -28,3 +28,4 @@ The next table is Preorder
 | 111  |   [111. Minimum Depth of Binary Tree](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/13#issue-894137709)    |40.1%|Easy|
 | 104  |   [111. Minimum Depth of Binary Tree](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/14#issue-894149420)    |68.7%|Easy|
 
+The third table is Postorder
