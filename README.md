@@ -30,6 +30,6 @@ The next table is Preorder
 
 The third table is Postorder
 
-
-
+|   #  |   Tree    |     Solution      |       Difficulty      |
+|-----|-----------|----------|------------|
 | 124  |   [110. Balanced Binary Tree](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/15#issue-894302699)    |45%|Easy|
