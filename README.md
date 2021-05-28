@@ -11,10 +11,13 @@
 | 102  |   [102. Binary Tree Level Order Traversal ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/4#issue-882163283)    |57.2%|Medium|
 | 107  |   [107. Binary Tree Level Order Traversal II ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/5#issue-882169542)    |55.7%|Medium|
 
+Inorder
+|   #  |   Tree (Preorder)           |     Solution      |       Difficulty      |
+|-----|-----------|----------|------------|
+| 114  |   [114. Flatten Binary Tree to Linked List](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/17#issue-904947849)    |53.6%|Medium|
 
 
-
-The next table is Preorder
+Preorder
 
 |   #  |   Tree (Preorder)           |     Solution      |       Difficulty      |
 |-----|-----------|----------|------------|
@@ -28,7 +31,7 @@ The next table is Preorder
 | 111  |   [111. Minimum Depth of Binary Tree](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/13#issue-894137709)    |40.1%|Easy|
 | 104  |   [104. Maximum Depth of Binary Tree    ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/14#issue-894149420)    |68.7%|Easy|
 
-The third table is Postorder
+Postorder
 
 |   #  |   Tree    |     Solution      |       Difficulty      |
 |-----|-----------|----------|------------|
