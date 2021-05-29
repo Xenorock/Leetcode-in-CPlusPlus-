@@ -35,5 +35,10 @@ Postorder
 
 |   #  |   Tree    |     Solution      |       Difficulty      |
 |-----|-----------|----------|------------|
-| 124  |   [110. Balanced Binary Tree](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/15#issue-894302699)    |45%|Easy|
+| 110  |   [110. Balanced Binary Tree](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/15#issue-894302699)    |45%|Easy|
 | 337  |   [337. House Robber III](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/16#issue-900480254)    |52.1%|Medium|
+
+BFS
+|   #  |   Tree    |     Solution      |       Difficulty      |
+|-----|-----------|----------|------------|
+| 103  |   [103. Binary Tree Zigzag Level Order Traversal](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/18#issue-906412594)    |50.8%|Medium|
