@@ -42,3 +42,4 @@ BFS
 |   #  |   Tree    |     Solution      |       Difficulty      |
 |-----|-----------|----------|------------|
 | 103  |   [103. Binary Tree Zigzag Level Order Traversal](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/18#issue-906412594)    |50.8%|Medium|
+| 199  |   [199. Binary Tree Right Side View](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/19#issue-906455110)    |56.9%|Medium|
