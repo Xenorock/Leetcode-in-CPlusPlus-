@@ -10,17 +10,8 @@
 | 145  |   [145.Binary Tree Postorder Traversal ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/3#issue-881027097)    |58.4%|Medium|
 | 102  |   [102. Binary Tree Level Order Traversal ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/4#issue-882163283)    |57.2%|Medium|
 | 107  |   [107. Binary Tree Level Order Traversal II ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/5#issue-882169542)    |55.7%|Medium|
-
-Inorder
 |   #  |   Tree (Preorder)           |     Solution      |       Difficulty      |
-|-----|-----------|----------|------------|
 | 114  |   [114. Flatten Binary Tree to Linked List](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/17#issue-904947849)    |53.6%|Medium|
-
-
-Preorder
-
-|   #  |   Tree (Preorder)           |     Solution      |       Difficulty      |
-|-----|-----------|----------|------------|
 | 100  |   [100. Same Tree  ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/6#issue-886288566)    |54.3%|Easy|
 | 101  |   [100. Symmetric Tree  ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/7#issue-886361496)    |48.7%|Easy|
 | 226  |   [226. Invert Binary Tree](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/8#issue-889945862)    |67.6%|Easy|
@@ -30,16 +21,12 @@ Preorder
 | 129  |   [129. Sum Root to Leaf Numbers ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/12#issue-891992052)    |51.6%|Medium|
 | 111  |   [111. Minimum Depth of Binary Tree](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/13#issue-894137709)    |40.1%|Easy|
 | 104  |   [104. Maximum Depth of Binary Tree    ](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/14#issue-894149420)    |68.7%|Easy|
-
-Postorder
-
-|   #  |   Tree    |     Solution      |       Difficulty      |
-|-----|-----------|----------|------------|
+|   #  |   Tree(Postorder)     |     Solution     |       Difficulty      |
 | 110  |   [110. Balanced Binary Tree](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/15#issue-894302699)    |45%|Easy|
 | 337  |   [337. House Robber III](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/16#issue-900480254)    |52.1%|Medium|
-
-BFS
-|   #  |   Tree    |     Solution      |       Difficulty      |
-|-----|-----------|----------|------------|
+|   #  |   Tree(BFS)    |     Solution      |       Difficulty      |
 | 103  |   [103. Binary Tree Zigzag Level Order Traversal](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/18#issue-906412594)    |50.8%|Medium|
 | 199  |   [199. Binary Tree Right Side View](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/19#issue-906455110)    |56.9%|Medium|
+|   #  |   Tree(BST)    |     Solution      |       Difficulty      |
+| 98  |   [98. Validate Binary Search Tree](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/20#issue-908027253)    |29.1%%|Medium|
+| 235  |   [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/Xenorock/Leetcode-in-CPlusPlus-/issues/21#issue-908043917)    |52.6%|Easy|
